@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#pytorch lightning
+lightning_logs/
+logs/
+
+# mypy and pytest
+.mypy_cache/
+.pytest_cache/
+
 # C extensions
 *.so
 
