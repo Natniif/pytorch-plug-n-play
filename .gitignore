@@ -7,6 +7,10 @@ __pycache__/
 lightning_logs/
 logs/
 
+# misc 
+.DS_Store
+.vscode/
+
 # mypy and pytest
 .mypy_cache/
 .pytest_cache/
